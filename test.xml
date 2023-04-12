@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<userlist>
+	<user>
+		<name>ganesh</name>
+		<city>bangalore</city>
+		<edu>MCA</edu>
+	</user>
+	<user>
+		<name>mahesh</name>
+		<city>mangalore</city>
+		<edu>BCA</edu>
+	</user>
+</userlist>
